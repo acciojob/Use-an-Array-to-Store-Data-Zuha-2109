@@ -1,3 +1,2 @@
-const youArray=['one', 2, 'three', true, false, undefined, null];
-console.log(youArray.length);
+var yourArray=["areeb",1,true,"abc",23]
 
