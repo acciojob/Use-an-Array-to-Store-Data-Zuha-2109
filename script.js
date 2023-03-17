@@ -1,3 +1,3 @@
-
-const yourArray = ['zuha' , 1 , true , 'four' , 4 , null , "zuha"];
+const youArray=['one', 2, 'three', true, false, undefined, null];
+console.log(youArray.length);
 
